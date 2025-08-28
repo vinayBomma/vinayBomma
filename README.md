@@ -37,11 +37,6 @@ I'm a developer passionate about creating useful and user-friendly applications.
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaybomma&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 <a href="https://linkedin.com/in/vinaybomma" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" />
@@ -55,5 +50,3 @@ I'm a developer passionate about creating useful and user-friendly applications.
 <a href="mailto:itsvinaybomma@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white" />
 </a>
-
----
