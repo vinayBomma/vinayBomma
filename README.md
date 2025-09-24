@@ -6,7 +6,7 @@ I'm a developer passionate about creating useful and user-friendly applications.
 ---
 
 ## 🌟 Featured Projects
-<a href="https://vinaybomma-toki.expo.app" target="_blank"><b>Toki</b></a> — Cross-platform journaling app with Google OAuth & intuitive design. *(React Native, Expo, Supabase)*  
+<a href="https://play.google.com/store/apps/details?id=com.vinaybomma.toki" target="_blank"><b>Toki</b></a> — Cross-platform journaling app with Google OAuth & intuitive design. *(React Native, Expo, Supabase)*  
 <a href="https://marketplace.visualstudio.com/items?itemName=vinaybomma.hashnode-on-vscode" target="_blank"><b>Hashnode on VSCode</b></a> — VSCode extension to blog directly on Hashnode via GraphQL API. *(TypeScript)*  
 <a href="https://play.google.com/store/apps/details?id=com.vinaybomma.attendit" target="_blank"><b>Attend It</b></a> — PWA for attendance management with offline capabilities. *(Vue.js, Firebase)*  
 <a href="https://twisterio.web.app" target="_blank"><b>Twister</b></a> — Fun tongue twister app supporting 100+ languages to challenge pronunciation and speech skills. *(Vue.js, Firebase, Python)*
