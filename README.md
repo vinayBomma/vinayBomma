@@ -52,6 +52,6 @@ I'm a developer passionate about creating useful and user-friendly applications.
 <a href="mailto:itsvinaybomma@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white" />
 </a>
-<a href="https://play.google.com/store/apps/developer?id=Vinay+Bomma" target="_blank">
+<a href="https://play.google.com/store/apps/dev?id=8011732838508720275" target="_blank">
   <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 </a>
