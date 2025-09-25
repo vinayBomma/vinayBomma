@@ -6,6 +6,7 @@ I'm a developer passionate about creating useful and user-friendly applications.
 ---
 
 ## 🌟 Featured Projects
+<a href="https://drive.google.com/drive/u/2/folders/1VQE4JWufd7rnr2ECZTlAjie6WIyaT7vU" target="_blank"><b>Socio</b></a> — Social habit tracker with group accountability, chat, and AI insights. *(React Native, Expo, NativeWind, Supabase, Gemini)*  
 <a href="https://play.google.com/store/apps/details?id=com.vinaybomma.toki" target="_blank"><b>Toki</b></a> — Cross-platform journaling app with Google OAuth & intuitive design. *(React Native, Expo, NativeWind, Supabase)*  
 <a href="https://marketplace.visualstudio.com/items?itemName=vinaybomma.hashnode-on-vscode" target="_blank"><b>Hashnode on VSCode</b></a> — VSCode extension to blog directly on Hashnode via GraphQL API. *(TypeScript)*  
 <a href="https://play.google.com/store/apps/details?id=com.vinaybomma.twister" target="_blank"><b>Twister</b></a> — Tongue twister app supporting 100+ languages to help people with speech impediments. *(React Native, Expo, NativeWind, Firebase)*  
