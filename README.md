@@ -41,7 +41,7 @@ I'm a developer passionate about creating useful and user-friendly applications.
 
 ## 🌐 Connect with Me
 <a href="https://linkedin.com/in/vinaybomma" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
 </a>
 <a href="https://vinaybomma.hashnode.dev" target="_blank">
   <img src="https://img.shields.io/badge/-Blog-2962FF?&logo=hashnode&logoColor=white" />
@@ -51,4 +51,7 @@ I'm a developer passionate about creating useful and user-friendly applications.
 </a>
 <a href="mailto:itsvinaybomma@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?&logo=gmail&logoColor=white" />
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Vinay+Bomma" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 </a>
